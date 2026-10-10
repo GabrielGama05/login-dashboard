@@ -98,5 +98,6 @@ Link do GitHub: preencher com a URL real do repositório público após a public
 - Navegador: campos vazios exibem mensagem, senha usa input do tipo password, Acessar abre o Dashboard com o login informado e Voltar ao Login retorna ao formulário.
 - Não foi realizado teste em aparelho físico ou emulador neste ambiente.
 - A instalação reportou 29 alertas de dependências herdadas do template (11 moderados e 18 altos). As versões do SDK foram preservadas; não foi aplicada atualização forçada que poderia quebrar a compatibilidade.
-- A publicação no GitHub depende da conexão da conta e ainda não foi realizada.
+- Repositório público: https://github.com/GabrielGama05/login-dashboard
 - ESLint: aprovado.
+
